@@ -1,0 +1,13 @@
+Welcome to Edureka CloudLab! 
+ 
+This CloudLab is dedicated for your online certification training to run practicals. 
+All the necessary tools/technologies are already installed and configured. Below are the tools present on this CloudLab
+
+
+Applications:
+
+1. Kubernetes(Slave)
+2. Puppet(Agent) /opt/puppetlabs
+3. Docker
+4. Python
+5. Ansible 
